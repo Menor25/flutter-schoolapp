@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "559078629597",
+    "project_id": "schoolapp-a7a3c",
+    "storage_bucket": "schoolapp-a7a3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559078629597:android:dcf46dd0986953dab13b34",
+        "android_client_info": {
+          "package_name": "menor.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559078629597-gg0c1h6ualp8nbvbaptdp258333r0atk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfFd0rmbIq_ETezyjmPf5ebw77jVT6uHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559078629597-gg0c1h6ualp8nbvbaptdp258333r0atk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559078629597-b94dicqma40vjs45o8m3l1bgojq4k8fi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "menor.com"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559078629597:android:2ba96bdcc2d30f9ab13b34",
+        "android_client_info": {
+          "package_name": "menor.com.schoolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559078629597-gg0c1h6ualp8nbvbaptdp258333r0atk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfFd0rmbIq_ETezyjmPf5ebw77jVT6uHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559078629597-gg0c1h6ualp8nbvbaptdp258333r0atk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559078629597-b94dicqma40vjs45o8m3l1bgojq4k8fi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "menor.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
