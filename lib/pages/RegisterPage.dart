@@ -46,7 +46,7 @@ class RegisterPage extends StatelessWidget {
 
                 //Login in text
                 Text(
-                  'Login Below',
+                  'Register Below',
                   style: TextStyle(
                     color: Colors.grey[700],
                     fontSize: 25,
@@ -138,14 +138,14 @@ class RegisterPage extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Text(
-                      'Not registered?',
+                      'Already a member?',
                       style: TextStyle(color: Colors.grey[700]),
                     ),
                     const SizedBox(width: 4),
                     GestureDetector(
                       onTap: onTap,
                       child: const Text(
-                        'Register Now',
+                        'Login Now',
                         style: TextStyle(
                           color: Colors.green,
                           fontWeight: FontWeight.bold,
